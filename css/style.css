@@ -1,4 +1,5 @@
 @import url(global.css);
+@import url(../canciones_nana/css/style.css);
 nav > a{
 color: var(--color-texto);
 padding: 15px;

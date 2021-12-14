@@ -11,6 +11,9 @@
 .footer{
     background-color: var(--color-footer);
 }
+.flexwap{
+  flex-wrap: wrap;
+}
 .disflex {
   display: flex;
 }
@@ -53,6 +56,9 @@
   align-items: stretch;
 }
 /*FLEX*/
+.flex5{
+  flex: 5%;
+}
 .flex15 {
   flex: 15%;
 }
@@ -70,13 +76,13 @@
   padding: 10px;
 }
 .p15 {
-  padding: 15;
+  padding: 15px;
 }
 .p20 {
-  padding: 20%;
+  padding: 20px;
 }
 .p25 {
-  padding: 25%;
+  padding: 25px;
 }
 .m10 {
   margin: 10px;
@@ -113,4 +119,16 @@
     }
 .h50{
     height: 50vh;
+}
+.h75{
+  height: 75vh;
+}
+.h100{
+  height: 200vh;
+}
+.ml-10{
+  margin-left: 10px;
+}
+.hola{
+  border-radius: 8px;
 }
