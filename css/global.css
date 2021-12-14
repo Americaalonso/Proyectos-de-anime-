@@ -1,0 +1,116 @@
+@import url(variables.css);
+.header {
+  background-color: var(--color-header);
+}
+.link {
+  background-color: var(--color1);
+}
+.aside{
+    background-color: var(--color-aside);
+}
+.footer{
+    background-color: var(--color-footer);
+}
+.disflex {
+  display: flex;
+}
+.flexrow {
+  flex-direction: row;
+}
+.flexcolumn {
+  flex-direction: column;
+}
+/*flex horinzontal*/
+.justi-con-c {
+  justify-content: center;
+}
+.justi-con-flexS {
+  justify-content: flex-start;
+}
+.justi-con-flexE {
+  justify-content: flex-end;
+}
+.justi-con-spaceB {
+  justify-content: space-between;
+}
+.justi-con-spaceA {
+  justify-content: space-around;
+}
+.justi-con-spaceEV {
+  justify-content: space-evenly;
+}
+/*flex vertical items*/
+.aling-i-C {
+  align-items: center;
+}
+.aling-i-flexS {
+  align-items: flex-start;
+}
+.aling-i-flexE {
+  align-items: flex-end;
+}
+.aling-i-S {
+  align-items: stretch;
+}
+/*FLEX*/
+.flex15 {
+  flex: 15%;
+}
+.flex20 {
+  flex: 20%;
+}
+.flex25 {
+  flex: 25%;
+}
+.flex50 {
+  flex: 50%;
+}
+/*Padding*/
+.p10 {
+  padding: 10px;
+}
+.p15 {
+  padding: 15;
+}
+.p20 {
+  padding: 20%;
+}
+.p25 {
+  padding: 25%;
+}
+.m10 {
+  margin: 10px;
+}
+.m5 {
+  margin: 5px;
+}
+.m15 {
+    margin: 15px;
+  }
+.m20{
+    margin: 20px;
+}
+.m25{
+    margin: 25px;
+}
+.h1{
+  height: 1vh;
+}
+.h5 {
+  height: 5vh;
+}
+.h10 {
+  height: 10vh;
+}
+.h15 {
+  height: 15vh;
+}
+.h20{
+    height: 20vh;
+    }
+.h25{
+    height: 25vh;
+    }
+.h50{
+    height: 50vh;
+}
